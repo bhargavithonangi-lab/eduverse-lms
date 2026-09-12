@@ -1,0 +1,6 @@
+{
+  "name": "EduVerse - Online Learning Platform",
+  "description": "Comprehensive online learning platform with secure authentication, course management, Gemini AI tutor, live virtual classrooms, progress tracking, discussion channels, and MongoDB integration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
